@@ -7,11 +7,7 @@ I used the following documentation for this project.
 [Github markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 
 ## Instalation Steps
-1. Step 1
-2. Step 2
-
-~~3. Step 3~~
-3. New Step 3
+Please view [installation steps file](instllation-steps.md) 
 
 ### Configuration Steps
 - one
