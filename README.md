@@ -30,4 +30,4 @@ git commit
 ```
 
 Picture
-![RacePicture](71.png)
+![RacePicture](pictures/71.png)
