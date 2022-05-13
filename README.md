@@ -28,3 +28,6 @@ git status
 git add
 git commit
 ```
+
+Picture
+![RacePicture](72.png)
