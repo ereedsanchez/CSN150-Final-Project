@@ -22,4 +22,13 @@ I used the following documentation for this project.
 > to be or not to be
 
 Run this code
+
 `sudo nano hello-world`
+
+Block of code
+
+```
+git status
+git add
+git commit
+```
