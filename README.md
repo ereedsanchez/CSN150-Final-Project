@@ -31,3 +31,6 @@ git commit
 
 Picture
 ![RacePicture](pictures/71.png)
+
+Video
+[![Watch the video](https://youtu.be/USjZcfj8yxE)
