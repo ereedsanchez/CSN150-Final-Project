@@ -33,4 +33,5 @@ Picture
 ![RacePicture](pictures/71.png)
 
 Video
-[![Watch the video](https://youtu.be/USjZcfj8yxE)
+[![Watch the video](https://img.youtube.com/vi/USjZcfj8yxEA/maxresdefault.jpg)](https://youtu.be/USjZcfj8yxE)
+
